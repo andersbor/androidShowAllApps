@@ -1,0 +1,2 @@
+rootProject.name='Show All Apps'
+include ':app'
