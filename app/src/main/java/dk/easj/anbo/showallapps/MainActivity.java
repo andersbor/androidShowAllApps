@@ -13,6 +13,8 @@ import android.widget.TextView;
 import java.util.List;
 import java.util.stream.Collectors;
 
+// https://www.version2.dk/artikel/android-apps-giver-informationer-dine-apps-videre-tredjeparter-1090295
+// https://www.zdnet.com/article/android-lets-advertisers-get-a-list-of-all-your-apps-and-this-api-feature-is-broadly-used/
 public class MainActivity extends AppCompatActivity {
 
     @Override
